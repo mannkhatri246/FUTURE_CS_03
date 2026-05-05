@@ -18,7 +18,7 @@ The report presents findings from a read-only passive security assessment conduc
 |-------|---------|
 | API Name | JSONPlaceholder |
 | Base URL | https://jsonplaceholder.typicode.com |
-| API Type | Public REST API — Demo/Testing Platform |
+| API Type | Public REST API - Demo/Testing Platform |
 | Assessment Type | Read-Only Passive Security Analysis |
 | Assessment Date | May 2026 |
 
